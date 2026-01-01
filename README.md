@@ -92,7 +92,6 @@ The IR sensors detect whether the surface beneath them is **black or white**.
 - Use more sensors for complex paths
 - Wireless monitoring using Bluetooth/Wi-Fi
 
----
 
 
 
