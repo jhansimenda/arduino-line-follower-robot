@@ -65,3 +65,35 @@ The IR sensors detect whether the surface beneath them is **black or white**.
 ---
 
 
+---
+
+##  How to Run the Project
+
+1. Assemble the robot hardware as per the circuit diagram  
+2. Upload the Arduino code to the board  
+3. Place the robot on a black line over a white surface  
+4. Power the robot and observe the line-following behavior  
+
+---
+
+##  Applications
+
+- Robotics and Embedded Systems learning  
+- Autonomous vehicle basics  
+- Industrial automation concepts  
+- Academic mini-projects  
+
+---
+
+##  Future Improvements
+
+- Add **PWM-based speed control**
+- Implement **PID control** for smoother turns
+- Use more sensors for complex paths
+- Wireless monitoring using Bluetooth/Wi-Fi
+
+---
+
+
+
+
